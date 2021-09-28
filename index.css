@@ -1,0 +1,50 @@
+header {
+    background-color: lightgray;
+    margin-left: 750px;
+    height: 180px;
+    width: 1000px;
+}
+
+.blue {
+    margin-top: 10px;
+    margin-left: 25px;
+    display: inline-block;
+    background-color: dodgerblue;
+    height: 160px;
+    width: 156px;
+}
+
+p {
+    text-align:left;
+    margin-top: 50px;
+    margin-left: 800px;
+    font-size: 26px;
+}
+.blue2 {
+    background-color: dodgerblue;
+    margin-left: 750px;
+    margin-top: 50px;
+    height: 200px;
+    width: 1000px;
+}
+
+.teal {
+    background-color: turquoise;
+    margin-left: 750px;
+    height: 200px;
+    width: 1000px;
+}
+
+.green {
+    background-color: rgb(172, 212, 172);
+    margin-left: 750px;
+    height: 200px;
+    width: 1000px;
+}
+
+.yellow {
+    background-color: rgb(224, 224, 34);
+    margin-left: 750px;
+    height: 200px;
+    width: 1000px;
+}
